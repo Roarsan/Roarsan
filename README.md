@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Roshan
-- 👀 I’m interested in technology ...
-- 🌱 I’m a full stack developer ...
-- 💞️ I’m looking to collaborate on team projects ...
-- 📫 How to reach me  ...
+👋 Hi, I’m Roshan — a Junior Full-Stack Developer with hands-on experience building production-style web applications using TypeScript, React, Next.js, Node.js, and PostgreSQL.
 
-<!---
-Roarsan/Roarsan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’ve worked on authentication-heavy systems, session management, and backend APIs, and I enjoy refactoring codebases to improve structure and maintainability.
+
+📌 Currently focused on: backend logic, authentication flows, and scalable application architecture.
